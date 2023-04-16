@@ -1,6 +1,15 @@
 # real-world-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+Created with npx create-vue real-world-vue
+
+TypeScript no
+jsx no
+Router yes
+Pinia yes
+Vitest no
+Cypress no
+ESLint yes
+Prettier yes
 
 ## Recommended IDE Setup
 
