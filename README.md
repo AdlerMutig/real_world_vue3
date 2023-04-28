@@ -42,3 +42,5 @@ npm run build
 ```sh
 npm run lint
 ```
+
+To get the mock database results, using myjson server
